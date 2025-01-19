@@ -17,7 +17,8 @@ and grow myself and my career! :v:
 
 **Thanks for checking me out! I'll be working on this profile and account\
 throughout the year, so please come back sometime!**
-![picture of Qwilfish pixelated pokemon}(/qwilfish.png)
+
+![picture of Qwilfish pixelated pokemon](/qwilfish.png)
 
 <!--
 - 🔭 I’m currently working on ...
