@@ -6,7 +6,7 @@ and grow myself and my career! :v:
 
 #### Goals
 - Study networking and best practices for network security :closed_lock_with_key:
-- Practice code daily in languages like Python :snake:, Java :coffe:, MySQL :chart_with_upwards_trend:, and plenty more
+- Practice code daily in languages like Python :snake:, Java :coffee:, MySQL :chart_with_upwards_trend:, and plenty more
 - Read as many textbooks as I can get my hands on :books:
 - Develop my skills and become an asset in a career that I love :star:
 
